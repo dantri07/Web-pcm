@@ -1,0 +1,7 @@
+Cara menggunakan
+1. Masuk ke dashboard admin
+2. Pilih menu Peralatan
+3. Klik import 
+4. Pilih Wordpress
+5. Kemudian Klik Browse
+6. Pilih file yang akan digunakan
